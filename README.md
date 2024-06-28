@@ -1,2 +1,2 @@
-# mmajid7.github.io
-Portifiolio pessoal utilizando html, css e Javascript
+# Portfolio-Pessoal
+Portfolio pessoal usando html, css e javascript puro.
